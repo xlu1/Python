@@ -1,7 +1,4 @@
 # Python
 
-## Week 1
- - Decision Trees
- - KNN
- - Generator
+## Exercise 1
  - Linked List
